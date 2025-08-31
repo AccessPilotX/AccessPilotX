@@ -1,5 +1,8 @@
 # 👋 Hi, I'm Dhanalakshmi K S  
 
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)  
+![Profile Views](https://komarev.com/ghpvc/?username=dhanalakshmiks111-commits&label=Profile%20Views&color=blue&style=flat)  
+
 💻 **IT Security Analyst | Cybersecurity Enthusiast | IAM Specialist**  
 🔐 Passionate about strengthening security posture, Identity & Access Management (IAM), and automating security operations.  
 
@@ -36,19 +39,3 @@
 ## 📊 GitHub Stats  
 ![Dhanalakshmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhanalakshmiks111-commits&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhanalakshmiks111-commits&layout=compact&theme=tokyonight)  
-## Hi there 👋
-
-<!--
-**dhanalakshmiks111-commits/dhanalakshmiks111-commits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
