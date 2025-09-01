@@ -1,3 +1,6 @@
+<h1 align="center">✨ Dhanalakshmi K S ✨</h1>
+<h3 align="center">🔐 IAM Specialist | Cybersecurity Enthusiast</h3>
+
 <p align="center">
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=Identity+%26+Access+Management+Specialist;SailPoint+IIQ+%7C+Active+Directory+%7C+RBAC;Cybersecurity+Enthusiast+%F0%9F%9B%A1%EF%B8%8F;Enforcing+Least+Privilege+with+Passion+🔑)](https://git.io/typing-svg)
