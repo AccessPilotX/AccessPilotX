@@ -1,41 +1,50 @@
-# 👋 Hi, I'm Dhanalakshmi K S  
+<p align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=Identity+%26+Access+Management+Specialist;SailPoint+IIQ+%7C+Active+Directory+%7C+RBAC;Cybersecurity+Enthusiast+%F0%9F%9B%A1%EF%B8%8F;Enforcing+Least+Privilege+with+Passion+🔑)](https://git.io/typing-svg)
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)  
-![Profile Views](https://komarev.com/ghpvc/?username=dhanalakshmiks111-commits&label=Profile%20Views&color=blue&style=flat)  
-
-💻 **IT Security Analyst | Cybersecurity Enthusiast | IAM Specialist**  
-🔐 Passionate about strengthening security posture, Identity & Access Management (IAM), and automating security operations.  
+</p>
 
 ---
 
-## 🚀 About Me  
-- 🌱 Currently working as **Security Analyst at TCS**  
-- 🛡 Skilled in **SailPoint IIQ, Active Directory, PKI, Splunk**  
-- 📚 Constantly learning more about **Cybersecurity & Cloud Security**  
-- 🎯 Goal: Build a strong career in **Cybersecurity domain**  
+<h2 align="center">👩‍💻 About Me</h2>
+
+- 🎯 **IAM Specialist** experienced in **SailPoint IIQ**, **Active Directory**, and **Access Governance**
+- 🔑 Passionate about **RBAC Design**, **Provisioning Workflows**, and **Lifecycle Management (JML)**
+- 🛡 Advocate of **Zero Trust Security** and **Least Privilege**
+- 🌱 Currently learning **Cloud IAM** and **Privileged Access Management (PAM)**
 
 ---
 
-## 🛠️ Tech Stack  
-**Identity & Security:** ![SailPoint](https://img.shields.io/badge/-SailPoint-blue) ![AD](https://img.shields.io/badge/-Active%20Directory-orange) ![PKI](https://img.shields.io/badge/-PKI-lightgrey)  
-**Tools:** ![Splunk](https://img.shields.io/badge/-Splunk-green) ![ServiceNow](https://img.shields.io/badge/-ServiceNow-blue) ![JIRA](https://img.shields.io/badge/-JIRA-blue)  
-**Scripting:** ![PowerShell](https://img.shields.io/badge/-PowerShell-lightblue)  
-**Cloud:** ![AWS](https://img.shields.io/badge/-AWS%20CCP-orange)  
+<h2 align="center">🧩 Skills</h2>
+
+- **Identity Lifecycle:** Joiner → Mover → Leaver
+- **IAM Tools:** SailPoint IIQ, Active Directory
+- **Governance & Compliance:** Access Reviews, SOX, GDPR, ISO 27001
+- **Security Concepts:** RBAC, Zero Trust, Least Privilege
+- **Soft Skills:** Problem Solving, Collaboration, Process Optimization
 
 ---
 
-## 📌 Featured Projects  
-- **NXP Semiconductors IAM** – Automated user lifecycle & certificate issue resolution using SailPoint & PKI  
-- **Process Automation** – Developed PowerShell scripts to reduce manual IAM operations  
+<h2 align="center">📊 Highlighted Projects</h2>
+
+- 🔑 [**IAM RBAC Matrix**](https://github.com/AccessPilotX/IAM-RBAC-Matrix) – Role-to-Application Access Mapping
+- 🧾 [**Access Review Simulation**](https://github.com/AccessPilotX/Access-Review-Sample) – Mock Access Certification Data
+- 🖼 IAM Lifecycle Diagram – Visualizing Joiner-Mover-Leaver process
 
 ---
 
-## 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://linkedin.com/in/dhanalakshmi)  
-📧 **dhanalakshmiks111@gmail.com**  
+<h2 align="center">🌱 Currently Exploring</h2>
+
+- ☁️ **Cloud Identity Providers:** Azure AD, Okta
+- 🔒 **Privileged Access Management:** CyberArk, BeyondTrust
+- 🛠 **Automation:** Provisioning/De-provisioning Workflows
 
 ---
 
-## 📊 GitHub Stats  
-![Dhanalakshmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhanalakshmiks111-commits&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhanalakshmiks111-commits&layout=compact&theme=tokyonight)  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AccessPilotX&style=flat-square&color=blue" alt="Profile views"/>
+</p>
+
+<p align="center">
+  <em>“Strong identities build stronger security.”</em>
+</p>
