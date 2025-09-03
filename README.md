@@ -1,4 +1,4 @@
-<h1 align="center">✨ Dhanalakshmi K S ✨</h1>
+<h1 align="center"> Dhanalakshmi K S </h1>
 <h3 align="center">🔐 IAM Specialist | Cybersecurity Enthusiast</h3>
 
 <p align="center">
