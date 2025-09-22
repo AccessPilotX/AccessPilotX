@@ -1,4 +1,7 @@
-<h1 align="center">Dhanalakshmi KS</h1>
+<p align="center">
+  <img src="banner.png" alt="Dhanalakshmi KS Banner" />
+</p>
+
 <h3 align="center">Identity and Access Management Specialist | Cybersecurity Professional</h3>
 
 ---
