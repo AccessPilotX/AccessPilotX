@@ -41,6 +41,6 @@ Automation for Provisioning and De-provisioning Workflows
 <h2 align="center">Contact</h2>
 
 <p align="center">
-**Email**: dhanalakshmiks111@gmail.com  
-**LinkedIn**: <a href="https://www.linkedin.com/in/dhanalakshmi">linkedin.com/in/dhanalakshmi</a>  
+<b>Email:</b> dhanalakshmiks111@gmail.com &nbsp;&nbsp;&nbsp; <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/dhanalakshmi">linkedin.com/in/dhanalakshmi</a>
 </p>
+
