@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="banner.png" alt="Dhanalakshmi KS Banner" />
-</p>
-
+<h1 align="center">Dhanalakshmi KS</h1>
 <h3 align="center">Identity and Access Management Specialist | Cybersecurity Professional</h3>
 
 ---
@@ -44,6 +41,6 @@ Automation for Provisioning and De-provisioning Workflows
 <h2 align="center">Contact</h2>
 
 <p align="center">
-Email: dhanalakshmiks111@gmail.com                                                                      
+Email: dhanalakshmiks111@gmail.com  
 LinkedIn: <a href="https://www.linkedin.com/in/dhanalakshmi">linkedin.com/in/dhanalakshmi</a>  
 </p>
