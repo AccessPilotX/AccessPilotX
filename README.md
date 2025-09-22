@@ -1,35 +1,25 @@
-# Dhanalakshmi K S
-IAM Specialist | Cybersecurity Professional
+<h1 align="center">Dhanalakshmi KS</h1>
+<h3 align="center">Identity and Access Management Specialist | Cybersecurity Professional</h3>
 
-## About Me
-I am an Identity and Access Management (IAM) specialist with hands-on experience in SailPoint IIQ, Active Directory, and access governance. I focus on designing and implementing role-based access models, automating provisioning workflows, and ensuring compliance through access reviews and lifecycle management.
+---
 
-## Skills
-- Identity lifecycle: Joiner, Mover, Leaver (JML)
-- SailPoint IIQ (provisioning, access reviews)
-- Active Directory (user and group management)
-- Role-based access control (RBAC) and entitlement mapping
-- Access certification and remediation
-- ServiceNow for access requests and incident handling
-- Basic PowerShell scripting and process automation
-- Compliance awareness: SOX, GDPR, ISO 27001
+<p align="center">
+I am an Identity and Access Management (IAM) specialist with hands-on experience in SailPoint IIQ, Active Directory, and access governance.  
+I focus on role-based access control (RBAC), access reviews, lifecycle management, and compliance with security standards.  
+</p>
 
-## Highlighted Projects
-- IAM RBAC Matrix — Role-to-application access mapping  
-  https://github.com/AccessPilotX/IAM-RBAC-Matrix
+---
 
-- Access Review Simulation — Mock certification and remediation process  
-  https://github.com/AccessPilotX/Access-Review-Sample
+<h2 align="center">Skills</h2>
 
-- IAM Lifecycle Diagram — Visualizing Joiner-Mover-Leaver process  
-  (Upload the diagram file to the repository and link it here)
+<p align="center">
+Identity Lifecycle (Joiner, Mover, Leaver) • SailPoint IIQ • Active Directory • RBAC •  
+Access Certification • ServiceNow • PowerShell (Basic) • Compliance (SOX, GDPR, ISO 27001)
+</p>
 
-## Currently Exploring
-- Cloud identity providers: Azure AD, Okta
-- Privileged Access Management solutions (PAM)
-- Automation for provisioning and de-provisioning workflows
+---
 
-## Contact
-Email: dhanalakshmiks111@gmail.com  
-LinkedIn: https://www.linkedin.com/in/dhanalakshmi
+<h2 align="center">Highlighted Projects</h2>
 
+<p align="center">
+<a href="https://github.com/AccessPilotX/IAM-RBAC-Matrix">IAM RBA
