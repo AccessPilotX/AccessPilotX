@@ -1,20 +1,25 @@
-<h1 align="center">Dhanalakshmi KS</h1>
-<h3 align="center">Identity and Access Management Specialist | Cybersecurity Professional</h3>
+<p align="center">Identity and Access Management | Cybersecurity | Access Governance</p>
+
+<h1 align="center">D H A N A L A K S H M I &nbsp; K S</h1>
+<h3 align="center">IAM Specialist | Security Analyst</h3>
 
 ---
 
 <p align="center">
-I am an Identity and Access Management (IAM) specialist with hands-on experience in SailPoint IIQ, Active Directory, and access governance.  
-I focus on role-based access control (RBAC), access reviews, lifecycle management, and compliance with security standards.  
+I am an Identity and Access Management (IAM) professional with experience in SailPoint IIQ, Active Directory, and enterprise access governance.  
+I specialize in role-based access models, provisioning and de-provisioning workflows, and compliance-driven identity processes.  
+My focus is on delivering secure, efficient, and audit-ready identity solutions that strengthen organizational security posture.  
 </p>
 
 ---
 
-<h2 align="center">Skills</h2>
+<h2 align="center">Core Skills</h2>
 
 <p align="center">
-Identity Lifecycle (Joiner, Mover, Leaver) • SailPoint IIQ • Active Directory • RBAC •  
-Access Certification • ServiceNow • PowerShell (Basic) • Compliance (SOX, GDPR, ISO 27001)
+<b>IAM & Governance:</b> SailPoint IIQ, Active Directory, Azure AD (Basic) <br>
+<b>Security Practices:</b> Role-Based Access Control (RBAC), Access Reviews, Zero Trust, Compliance (SOX, GDPR, ISO 27001) <br>
+<b>Processes:</b> User Lifecycle (Joiner, Mover, Leaver), Provisioning & De-provisioning <br>
+<b>Tools & Platforms:</b> ServiceNow, Microsoft 365, Basic PowerShell
 </p>
 
 ---
@@ -22,9 +27,9 @@ Access Certification • ServiceNow • PowerShell (Basic) • Compliance (SOX, 
 <h2 align="center">Highlighted Projects</h2>
 
 <p align="center">
-<a href="https://github.com/AccessPilotX/IAM-RBAC-Matrix">IAM RBAC Matrix</a> — Role-to-application access mapping  
-<a href="https://github.com/AccessPilotX/Access-Review-Sample">Access Review Simulation</a> — Mock certification and remediation process  
-IAM Lifecycle Diagram — Visualizing Joiner-Mover-Leaver process
+• <a href="https://github.com/AccessPilotX/IAM-RBAC-Matrix">IAM RBAC Matrix</a> – Mapping application entitlements to business roles <br>
+• <a href="https://github.com/AccessPilotX/Access-Review-Sample">Access Review Simulation</a> – Demonstration of certification and remediation workflows <br>
+• IAM Lifecycle Diagram – Visual representation of the Joiner–Mover–Leaver process
 </p>
 
 ---
@@ -32,8 +37,9 @@ IAM Lifecycle Diagram — Visualizing Joiner-Mover-Leaver process
 <h2 align="center">Currently Exploring</h2>
 
 <p align="center">
-Cloud Identity Providers (Azure AD, Okta) • Privileged Access Management (PAM) •  
-Automation for Provisioning and De-provisioning Workflows
+Cloud Identity Providers (Azure AD, Okta) <br>
+Privileged Access Management (CyberArk, BeyondTrust) <br>
+Automation in Identity Lifecycle and Access Governance
 </p>
 
 ---
@@ -43,4 +49,3 @@ Automation for Provisioning and De-provisioning Workflows
 <p align="center">
 <b>Email:</b> dhanalakshmiks111@gmail.com &nbsp;&nbsp;&nbsp; <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/dhanalakshmi">linkedin.com/in/dhanalakshmi</a>
 </p>
-
