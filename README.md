@@ -27,8 +27,8 @@ My focus is on delivering secure, efficient, and audit-ready identity solutions 
 <h2 align="center">Highlighted Projects</h2>
 
 <p align="center">
-• <a href="https://github.com/AccessPilotX/IAM-RBAC-Matrix">IAM RBAC Matrix</a> – Mapping application entitlements to business roles <br>
-• <a href="https://github.com/AccessPilotX/Access-Review-Sample">Access Review Simulation</a> – Demonstration of certification and remediation workflows <br>
+• <a href="IAM-RBAC-Matrix">IAM RBAC Matrix</a> – Mapping application entitlements to business roles <br>
+• <a href="Access-Review-Sample">Access Review Simulation</a> – Demonstration of certification and remediation workflows <br>
 • IAM Lifecycle Diagram – Visual representation of the Joiner–Mover–Leaver process
 </p>
 
